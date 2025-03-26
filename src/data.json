@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://media.istockphoto.com/id/177413384/photo/pasta-with-carbonara.jpg?b=1&s=612x612&w=0&k=20&c=AQKCEiKFILPl4yGFNOlWXPQqkfe5Zk0kPSFkuzzR6Nc=",
+    "ingredients": [
+      "200g spaghetti",
+      "2 eggs",
+      "50g grated Parmesan cheese",
+      "100g bacon, chopped",
+      "Salt and black pepper"
+    ],
+    "instructions": [
+      "Boil the spaghetti according to package instructions.",
+      "Fry the bacon until crispy.",
+      "Beat the eggs and mix with Parmesan cheese.",
+      "Drain pasta and mix quickly with eggs and bacon.",
+      "Serve with black pepper on top."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://images.pexels.com/photos/17650171/pexels-photo-17650171/free-photo-of-meal-with-meat-and-rice.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "ingredients": [
+      "500g chicken breast",
+      "1 cup yogurt",
+      "2 tbsp tikka masala spice mix",
+      "1 cup tomato sauce",
+      "1/2 cup cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and spices for 1 hour.",
+      "Grill the chicken until cooked.",
+      "Cook tomato sauce in a pan and add cream.",
+      "Add grilled chicken to the sauce and simmer.",
+      "Serve with rice or naan."
+    ]
+  },
+  {
+      "id": 3,
+      "title": "Beef Tacos",
+      "summary": "Crispy taco shells filled with seasoned ground beef, lettuce, cheese, and salsa.",
+      "image": "./beef-tacos.jfif"
+    },
+    {
+      "id": 4,
+      "title": "Vegetable Stir Fry",
+      "summary": "A healthy mix of fresh vegetables stir-fried in a savory soy sauce.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "Margherita Pizza",
+      "summary": "A simple and delicious pizza with tomato sauce, fresh mozzarella, and basil.",
+      "image": "./margherita-pizza.jfif"
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Lava Cake",
+      "summary": "A decadent dessert with a gooey chocolate center, served with vanilla ice cream.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "title": "Caesar Salad",
+      "summary": "A classic salad with romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+      "image": "./caesar-salad.jfif"
+    },
+    {
+      "id": 8,
+      "title": "Beef Burger",
+      "summary": "Juicy beef patty served with lettuce, tomato, cheese, and pickles on a toasted bun.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "title": "Sushi Rolls",
+      "summary": "Fresh sushi rolls filled with fish, vegetables, and rice, served with soy sauce and wasabi.",
+      "image": "./sushi-rolls.jfif"
+    },
+    {
+      "id": 10,
+      "title": "Pancakes",
+      "summary": "Fluffy pancakes served with maple syrup, butter, and fresh berries.",
+      "image": "https://via.placeholder.com/150"
+    }
+]
